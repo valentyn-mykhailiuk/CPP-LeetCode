@@ -1,3 +1,8 @@
+// 1. Two Sum
+// https://leetcode.com/problems/two-sum
+// Time: O(n) | Space: O(n)
+// Approach: Hash map to store complement
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
