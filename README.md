@@ -1,10 +1,7 @@
 # C++ LeetCode Solutions
 
-**Valentyn Mykhailiuk** | C++ Developer | Junior+  
+**Valentyn Mykhailiuk** | C++ Novice programmer | Student 
 [GitHub](https://github.com/valentyn-mykhailiuk) | [LeetCode](https://leetcode.com/valentyn-mykhailiuk)
-
-> Clean, modern C++20 solutions with time/space complexity  
-> Ready to compile with CMake
 
 ## Progress
 | Difficulty | Solved |
